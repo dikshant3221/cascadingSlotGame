@@ -1,0 +1,35 @@
+{
+  "name": "slot-game",
+  "version": "1.0.0",
+  "description": "A slot game implemented with PIXI.js using Webpack and TypeScript.",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "path-browserify": "^1.0.1",
+    "pixi-tween": "^0.2.0",
+    "pixi.js": "^8.6.6",
+    "url-polyfill": "^1.1.12"
+  },
+  "devDependencies": {
+    "compression-webpack-plugin": "^11.1.0",
+    "copy-webpack-plugin": "^12.0.2",
+    "html-webpack-plugin": "^5.0.0",
+    "ts-loader": "^9.0.0",
+    "typescript": "^5.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.0.0"
+  },
+  "keywords": [
+    "slot-game",
+    "pixi.js",
+    "typescript",
+    "webpack"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

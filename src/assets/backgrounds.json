@@ -1,0 +1,28 @@
+{"frames": {
+
+"gefa_back_basegame":
+{
+	"frame": {"x":4,"y":4,"w":2106,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2106,"h":1350},
+	"sourceSize": {"w":2106,"h":1350}
+},
+"gefa_back_freegames":
+{
+	"frame": {"x":4,"y":1360,"w":2106,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2106,"h":1350},
+	"sourceSize": {"w":2106,"h":1350}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds.jpg",
+	"format": "RGB888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e3e9f6509bce671f705d7f55040486d0:ea17e603d783432315f578211929f98c:fb0a1ddd2397a14c452a2aa96771a815$"
+}
+}
