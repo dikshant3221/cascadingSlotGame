@@ -11,7 +11,7 @@ Follow these steps to set up and run the game:
 ### 1. Clone the Repository
 ```sh
 # Replace <repository-url> with the actual URL
-git clone <>
+git clone https://github.com/dikshant3221/cascadingSlotGame
 cd <project-folder>
 ```
 
